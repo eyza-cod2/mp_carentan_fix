@@ -1,5 +1,0 @@
-Made by Fjozek
-
-for zPAM3: https://github.com/eyza-cod2/zpam3
-
-Changes: https://github.com/eyza-cod2/mp_carentan_fix

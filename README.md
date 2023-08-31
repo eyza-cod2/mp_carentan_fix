@@ -3,30 +3,62 @@
 The **mp_carentan_fix** map fixes several bugs in the original **mp_carentan** map for Call of Duty 2.
 
 ## Download
-- Actual version:
-	- 2022/10/07 - <b><a href="https://github.com/eyza-cod2/mp_carentan_fix/raw/main/mp_carentan_fix_v2.iwd">Carentan FIX v2</a></b>
-<br><br>
-- Previous versions:
- - 2022/07/28 - <b><a href="https://github.com/eyza-cod2/mp_carentan_fix/raw/dd5b8869f602c3e0644d86c8e84b46787b2642e5/mp_carentan_fix_v1_test.iwd">Carentan FIX v1 test</a></b>
+- The map is part of the [zPAM3.33](https://github.com/eyza-cod2/zpam3) mappack - **[zpam_maps_v3.iwd](https://github.com/eyza-cod2/zpam3/raw/abbc16d244a820aa08372d4238cb53062f90ced0/zip/main/zpam_maps_v3.iwd)**
+- Change map on the server via command **/rcon map mp_carentan_fix**
 
-## Installation
-- Download <b><a href="https://github.com/eyza-cod2/mp_carentan_fix/raw/main/mp_carentan_fix_v2.iwd">Carentan FIX v2</a></b> and move it into main folder.
-- Change map on the server via command **/rcon map mp_carentan_fix_v2**
+## Changelog
+<details><summary>2023/08/30 - <b>Carentan FIX v3</b> <i>(click to open)</i></summary>
+<p>
 
+- updated -> [12] B invisible player bug fixed
+- improved lean bug fix for sandbags for [6], [15] and [16]
+- added [17] Axis MG house doorway lean bug fixed
+- added [18] Plant A tracks are grenade reflective
+- added [19] Plant A wall hole fixed
+- added support for aim trainer
+<br><br><br><br>
+</p>
+</details>
 
-- Notes:
-	- Final map name will be mp_carentan_fix
-	- Report bugs to **eyza** - discord: eyza#7930
+<details><summary>2022/10/07 - <b>Carentan FIX v2</b> <i>(click to open)</i></summary>
+<p>
 
+- Updated screenshots
+- [13] Pavement stuck fixed
+- [14] Midhouse axis door lean bug fixed
+- [15] Axis sandbags lean bug fixed
+- [16] Mid street sandbags lean bug fixed
+<br><br><br><br>
+</p>
+</details>
+
+<details><summary>2022/07/28 - <b>Carentan FIX v1</b> <i>(click to open)</i></summary>
+<p>
+
+- [1] Skybox elevated for better view from above
+- [2] A building door lean bug fixed
+- [3] A building door lean bug fixed
+- [4] B planting disabled on top of vehicle (333 jump)
+- [5] B bomb pavement texture fixed
+- [6] B sandbags lean bug fixed
+- [7] Jump not solid texture fixed
+- [8] Jump invisible texture fixed
+- [9] Roofs texture fix
+- [10] Stairs invisible wall texture added
+- [11] Mid not solid window fixed
+- [12] B invisible player bug fixed
+<br><br><br><br>
+</p>
+</details>
 
 ## Credit
-**Fjozek** (discord: Fjozek#0625)<br>
+**Fjozek** (discord: fjozek)<br>
 The guy responsible for map changes
 
-**YctN** (discord: YctN#1140)<br>
+**YctN** (discord: yctn)<br>
 The guy who bring this "fixed maps" idea together + server provider
 
-**eyza** (discord: eyza#7930)<br>
+**eyza** (discord: eyza_)<br>
 Bug reporter
 
 
@@ -79,3 +111,12 @@ Bug reporter
 
 [16] Mid street sandbags lean bug fixed<br>
 <a href="/images/carentan_street_sandbags.png"><img src="/images/carentan_street_sandbags.png" /></a><br>
+
+[17] Axis MG house doorway lean bug fixed<br>
+<a href="/images/carentan_axis_mg_house_doorways_3.png"><img src="/images/carentan_axis_mg_house_doorways_3.png" /></a><br>
+
+[18] Plant A tracks are grenade reflective<br>
+<a href="/images/carentan_a_tank_grenade.png"><img src="/images/carentan_a_tank_grenade.png" /></a><br>
+
+[19] Plant A wall hole fixed<br>
+<a href="/images/carentan_a_wall_hole.png"><img src="/images/carentan_a_wall_hole.png" /></a><br>
